@@ -1,0 +1,1 @@
+web: gunicorn studentbio.wsgi --log-file -
